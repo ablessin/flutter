@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/godani/shopping/BuildConfig.java
+ com.godani.shopping.BuildConfig
+com/godani/shopping/MainActivity.java
+ com.godani.shopping.MainActivity
